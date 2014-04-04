@@ -46,7 +46,7 @@ Last added bondo child object wins (gets called)
     require 'bondo'
 
     class Bar
-      def start
+      def stop
       end
     end
 
