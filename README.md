@@ -2,6 +2,8 @@
 
 # Bondo
 
+![3M can sue me](https://upload.wikimedia.org/wikipedia/commons/9/92/Bondo_putty_logo.svg)
+
 ### Deterministic Ruby multi-object "inheritance" (composition) spackle
 
 ## Advantages
