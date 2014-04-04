@@ -18,6 +18,6 @@ Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.license      = 'MIT'
 
-  s.add_development_dependency 'rake'
+  s.add_development_dependency 'rake', '~> 0'
 end
 .tap {|gem| pk = File.expand_path(File.join('~/.keys', 'gem-private_key.pem')); gem.signing_key = pk if File.exist? pk; gem.cert_chain = ['gem-public_cert.pem']} # pressed firmly by waxseal
