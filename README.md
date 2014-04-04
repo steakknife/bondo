@@ -12,6 +12,12 @@
 
 ## Installation
 
+### Gemfile
+  
+    gem 'bondo'
+
+### Manual
+
     gem cert --add <(curl -L https://raw.githubusercontent.com/steakknife/bondo/master/gem-public_cert.pem)
     gem install bondo -P HighSecurity
 
